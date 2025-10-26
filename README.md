@@ -1,4 +1,4 @@
-# Ad-Hoc-Insights
+# Ad-Hoc-Analysis
 
 ## Company: AtliQ Hardwares
 
