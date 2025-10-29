@@ -44,7 +44,7 @@ Through this project, I demonstrated my ability to handle complex data queries a
    - Run the SQL scripts in your MySQL environment to extract the necessary data.
    
 2. ** Visualizations**:
-   - Open the Power BI files in Power BI Desktop to view the visualizations.
+   - Open the Jupyter notebook and excel files to view the visualizations.
 
 
 ---
